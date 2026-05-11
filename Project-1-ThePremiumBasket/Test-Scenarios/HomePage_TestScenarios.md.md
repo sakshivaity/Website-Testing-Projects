@@ -24,3 +24,9 @@ Tested By: Sakshi Vaity
 | TS_14 | Verify blog titles and images are displayed correctly in Latest Blog section | Blog content should display properly | UI | Medium |
 | TS_15 | Verify user can open blog details page | Clicking on blog should redirect to correct blog page | Functional | Medium |
 | TS_16 | Verify Best Seller tag visibility | Best Seller tag should display for applicable products | UI | Low |
+| TS_17 | Verify FAQ questions are clickable | User should be able to expand/close FAQ answers | UI | Medium |
+| TS_18 | Verify only selected FAQ expands at a time | Other FAQs should close when new FAQ is expanded | Functional | Low |
+| TS_19 | Verify header dropdown menu functionality | Dropdown menu should open, display options correctly, close properly, and redirect to correct pages on selection | Functional | High |
+| TS_20 | Verify My Account icon functionality | My Account page popup should open successfully on clicking the icon | Functional | High |
+| TS_21 | Verify Search icon functionality | Search bar popup should open and allow user to search products successfully | Functional | High |
+| TS_22 | Verify Side Cart icon functionality | Side cart should open successfully and display added cart items properly | Functional | High |
