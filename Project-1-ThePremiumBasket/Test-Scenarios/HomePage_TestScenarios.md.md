@@ -33,3 +33,8 @@ Tested By: Sakshi Vaity
 | TS_23 | Verify chatbot widget visibility and functionality | Chatbot widget should display properly and open successfully on clicking | Functional | Medium |
 | TS_24 | Verify user can send message through chatbot | User message should be sent and chatbot should respond appropriately | Functional | Medium |
 | TS_25 | Verify Page Scroll To Top button functionality | Page should smoothly scroll to the top on clicking the button | Functional | Low |
+| TS_26 | Verify footer links functionality | Footer links should redirect correctly | Functional | Medium |
+| TS_27 | Verify social media icons functionality | Social media icons should open correct pages | Functional | Low |
+| TS_28 | Verify Subscribe for Premium Updates field functionality | User should be able to subscribe successfully using a valid email address | Functional | Low |
+| TS_29 | Verify email validation in Subscribe field | Proper validation message should display for invalid email formats | Validation | Medium |
+| TS_30 | Verify all buttons on homepage are clickable | Buttons should function properly | Functional | Medium |
