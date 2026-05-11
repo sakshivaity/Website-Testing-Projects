@@ -38,3 +38,7 @@ Tested By: Sakshi Vaity
 | TS_28 | Verify Subscribe for Premium Updates field functionality | User should be able to subscribe successfully using a valid email address | Functional | Low |
 | TS_29 | Verify email validation in Subscribe field | Proper validation message should display for invalid email formats | Validation | Medium |
 | TS_30 | Verify all buttons on homepage are clickable | Buttons should function properly | Functional | Medium |
+| TS_31 | Verify homepage loads without UI alignment issues | UI elements should display correctly | UI | Medium |
+| TS_32 | Verify homepage loading speed | Homepage should load within acceptable time | Performance | Low |
+| TS_33 | Verify homepage responsiveness on mobile devices | Homepage layout should adjust properly | UI | Medium |
+| TS_34 | Verify browser compatibility for homepage | Homepage should work properly across supported browsers | Compatibility | Medium |
