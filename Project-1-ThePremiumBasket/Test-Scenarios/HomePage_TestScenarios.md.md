@@ -16,3 +16,8 @@ Tested By: Sakshi Vaity
 | TS_07 | Verify featured products section visibility | Featured products should display correctly | Functional | Medium |
 | TS_08 | Verify product images load properly | Product images should display clearly | UI | Medium |
 | TS_09 | Verify product details are displayed correctly | Product name, price, and details should display properly | Functional | High |
+| TS_09 | Verify product details are displayed correctly | Product name, price, and details should display properly | Functional | High |
+| TS_10 | Verify product card are redirect to product detail page on clicking | Product detail page opens on clicking product image, product name successfully | Functional | High |
+| TS_11 | Verify quick preview popup open and close functionality | Popup should open and close successfully | Functional | Medium |
+| TS_12 | Verify product details and images are displayed correctly in quick preview | Correct product information and images should display | UI | Medium |
+| TS_13 | Verify Add to Cart functionality from quick preview | Product should be added to cart successfully | Functional | High |
