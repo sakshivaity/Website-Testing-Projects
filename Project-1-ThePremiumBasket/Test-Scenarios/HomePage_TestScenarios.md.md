@@ -30,3 +30,6 @@ Tested By: Sakshi Vaity
 | TS_20 | Verify My Account icon functionality | My Account page popup should open successfully on clicking the icon | Functional | High |
 | TS_21 | Verify Search icon functionality | Search bar popup should open and allow user to search products successfully | Functional | High |
 | TS_22 | Verify Side Cart icon functionality | Side cart should open successfully and display added cart items properly | Functional | High |
+| TS_23 | Verify chatbot widget visibility and functionality | Chatbot widget should display properly and open successfully on clicking | Functional | Medium |
+| TS_24 | Verify user can send message through chatbot | User message should be sent and chatbot should respond appropriately | Functional | Medium |
+| TS_25 | Verify Page Scroll To Top button functionality | Page should smoothly scroll to the top on clicking the button | Functional | Low |
