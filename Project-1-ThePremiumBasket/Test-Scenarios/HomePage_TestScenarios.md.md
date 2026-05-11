@@ -21,3 +21,5 @@ Tested By: Sakshi Vaity
 | TS_11 | Verify quick preview popup open and close functionality | Popup should open and close successfully | Functional | Medium |
 | TS_12 | Verify product details and images are displayed correctly in quick preview | Correct product information and images should display | UI | Medium |
 | TS_13 | Verify Add to Cart functionality from quick preview | Product should be added to cart successfully | Functional | High |
+| TS_14 | Verify blog titles and images are displayed correctly in Latest Blog section | Blog content should display properly | UI | Medium |
+| TS_15 | Verify user can open blog details page | Clicking on blog should redirect to correct blog page | Functional | Medium |
