@@ -23,3 +23,4 @@ Tested By: Sakshi Vaity
 | TS_13 | Verify Add to Cart functionality from quick preview | Product should be added to cart successfully | Functional | High |
 | TS_14 | Verify blog titles and images are displayed correctly in Latest Blog section | Blog content should display properly | UI | Medium |
 | TS_15 | Verify user can open blog details page | Clicking on blog should redirect to correct blog page | Functional | Medium |
+| TS_16 | Verify Best Seller tag visibility | Best Seller tag should display for applicable products | UI | Low |
