@@ -11,7 +11,7 @@ Tested By: Sakshi Vaity
 | TS_02 | Verify products are displayed correctly on Shop page | Product details, images, and prices should display properly | Functional | High |
 | TS_03 | Verify product click functionality | Clicking on a product should redirect user to product details page | Functional | High |
 | TS_04 | Verify product quick preview functionality | Product quick preview popup/page should open successfully | Functional | Medium |
-| TS_05 | Verify wishlist functionality from Shop page | Selected product should be added to wishlist successfully | Functional | Medium |
+| TS_05 | Verify wishlist functionality for logged-in and non-logged-in users | Logged-in users should add products to wishlist successfully, and non-logged-in users should be redirected to login page or shown appropriate message | Functional | High |
 | TS_06 | Verify product sorting functionality | Products should sort correctly based on selected option | Functional | Medium |
 | TS_07 | Verify Product Categories filter functionality | Products related to the selected product category should display correctly | Functional | High |
 | TS_08 | Verify Price filter functionality | Products should display according to selected price range | Functional | High |
