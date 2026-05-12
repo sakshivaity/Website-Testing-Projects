@@ -21,5 +21,8 @@ Tested By: Sakshi Vaity
 | TS_13 | Verify products display in Saved For Later section | Saved products should display with correct details | UI | Medium |
 | TS_14 | Verify Add to Cart and remove product functionality from Saved For Later section | Product should move successfully from Saved For Later section to cart and removed on clicking the remove icon  | Functional | Medium |
 | TS_15 | Verify side cart navigation arrows functionality | User should navigate successfully between cart sections using arrows | Functional | Medium |
-| TS_16 | Verify side cart close button functionality | Side cart should close successfully on clicking close icon | Functional | Medium |
-| TS_17 | Verify side cart responsiveness on mobile devices | Side cart layout should adjust properly on different screen sizes | UI | Medium |
+| TS_16 | Verify side cart close functionality on clicking outside | Side cart should close successfully when user clicks outside the panel | Functional | Medium |
+| TS_17 | Verify side cart close button functionality | Side cart should close successfully on clicking close icon | Functional | Medium |
+| TS_18 | Verify side cart overlay/background behavior | Background page should remain inaccessible while side cart is open | UI | Low |
+| TS_19 | Verify side cart loading performance | Side cart should open within acceptable response time | Performance | Low |
+| TS_20 | Verify side cart responsiveness on mobile devices | Side cart layout should adjust properly on different screen sizes | UI | Medium |
