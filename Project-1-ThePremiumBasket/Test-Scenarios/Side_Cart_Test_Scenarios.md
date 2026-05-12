@@ -18,6 +18,8 @@ Tested By: Sakshi Vaity
 | TS_10 | Verify Return to Shop button functionality in empty cart | User should redirect to Shop page successfully | Functional | Medium |
 | TS_11 | Verify recommended products section in side cart | Recommended products should display properly | UI | Medium |
 | TS_12 | Verify Add button functionality in recommended products section | Selected recommended product should add successfully to cart | Functional | Medium |
-
-| TS_13 | Verify side cart close button functionality | Side cart should close successfully on clicking close icon | Functional | Medium |
+| TS_13 | Verify products display in Saved For Later section | Saved products should display with correct details | UI | Medium |
+| TS_14 | Verify Add to Cart and remove product functionality from Saved For Later section | Product should move successfully from Saved For Later section to cart and removed on clicking the remove icon  | Functional | Medium |
+| TS_15 | Verify side cart navigation arrows functionality | User should navigate successfully between cart sections using arrows | Functional | Medium |
+| TS_16 | Verify side cart close button functionality | Side cart should close successfully on clicking close icon | Functional | Medium |
 | TS_17 | Verify side cart responsiveness on mobile devices | Side cart layout should adjust properly on different screen sizes | UI | Medium |
