@@ -8,7 +8,7 @@ Tested By: Sakshi Vaity
 | TS ID | Test Scenario | Expected Result | Test Type | Priority |
 |---|---|---|---|---|
 | TS_01 | Verify Shop page loads successfully | Shop page should open without errors | Functional | High |
-| TS_02 | Verify products are displayed correctly on Shop page | Product details, images, and prices should display properly | Functional | High |
+| TS_02 | Verify products are displayed correctly on Shop page | Product details, images, and prices should display properly | UI | High |
 | TS_03 | Verify product click functionality | Clicking on a product should redirect user to product details page | Functional | High |
 | TS_04 | Verify product quick preview functionality | Product quick preview popup/page should open successfully | Functional | Medium |
 | TS_05 | Verify wishlist functionality for logged-in and non-logged-in users | Logged-in users should add products to wishlist successfully, and non-logged-in users should be redirected to login page or shown appropriate message | Functional | High |
