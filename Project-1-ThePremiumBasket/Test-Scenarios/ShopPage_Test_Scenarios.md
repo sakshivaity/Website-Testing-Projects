@@ -18,6 +18,5 @@ Tested By: Sakshi Vaity
 | TS_09 | Verify minimum and maximum price range selection | Products within selected minimum and maximum price range should display correctly | Functional | Medium |
 | TS_10 | Verify All Tags section functionality | Products related to the selected tag should display correctly | Functional | Low |
 | TS_11 | Verify pagination/load more functionality | Additional products should load correctly on navigation | Functional | Medium |
-| TS_12 | Verify product search functionality | Relevant products should display for searched keyword | Functional | High |
-| TS_13 | Verify Shop page responsiveness | Shop page layout should adjust properly on different screen sizes | UI | Medium |
-| TS_14 | Verify Shop page browser compatibility | Shop page should function properly across supported browsers without UI or functional issues | Compatibility | Medium |
+| TS_12 | Verify Shop page responsiveness | Shop page layout should adjust properly on different screen sizes | UI | Medium |
+| TS_13 | Verify Shop page browser compatibility | Shop page should function properly across supported browsers without UI or functional issues | Compatibility | Medium |
