@@ -33,62 +33,30 @@ Tested By: Sakshi Vaity
 **Module URL:** https://thepremiumbasket.com/my-account/  
 **Tested By:** Sakshi Vaity  
 
----
-
-## 🔹 TS_02 – Verify Login Functionality
-
 | TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
 |---|---|---|---|
+| TS_01 | Verify My Account page opens successfully | TC_001 | Verify My Account page loads successfully |
+
 | TS_02 | Verify Login Functionality | TC_002 | Verify login with valid credentials |
 | TS_02 | Verify Login Functionality | TC_003 | Verify login with invalid password |
 | TS_02 | Verify Login Functionality | TC_004 | Verify validation for empty login fields |
 | TS_02 | Verify Login Functionality | TC_005 | Verify login with unregistered email |
 | TS_02 | Verify Login Functionality | TC_006 | Verify Remember Me functionality |
 
----
-
-## 🔹 TS_03 – Verify Registration Functionality
-
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
-|---|---|---|---|
 | TS_03 | Verify Registration Functionality | TC_007 | Verify user registration with valid details |
 | TS_03 | Verify Registration Functionality | TC_008 | Verify validation for mandatory registration fields |
 | TS_03 | Verify Registration Functionality | TC_009 | Verify registration with already registered email |
 | TS_03 | Verify Registration Functionality | TC_010 | Verify First Name and Last Name field validation |
 | TS_03 | Verify Registration Functionality | TC_011 | Verify email field validation |
 
----
-
-## 🔹 TS_04 – Verify Password & Recovery Functionality
-
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
-|---|---|---|---|
 | TS_04 | Verify Password & Recovery Functionality | TC_012 | Verify password masking functionality |
 | TS_04 | Verify Password & Recovery Functionality | TC_013 | Verify SHOW and HIDE password functionality |
 | TS_04 | Verify Password & Recovery Functionality | TC_014 | Verify Recover Password navigation |
 | TS_04 | Verify Password & Recovery Functionality | TC_015 | Verify Recover Password functionality |
 
----
-
-## 🔹 TS_05 – Verify Security Behavior
-
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
-|---|---|---|---|
 | TS_05 | Verify Security Behavior | TC_016 | Verify browser back button behavior after logout |
 
----
-
-## 🔹 TS_06 – Verify UI & Responsiveness
-
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
-|---|---|---|---|
 | TS_06 | Verify UI & Responsiveness | TC_017 | Verify My Account page responsiveness |
 | TS_06 | Verify UI & Responsiveness | TC_018 | Verify UI alignment on My Account page |
 
----
-
-## 🔹 TS_07 – Verify Performance
-
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
-|---|---|---|---|
 | TS_07 | Verify Performance | TC_019 | Verify My Account page loading performance |
