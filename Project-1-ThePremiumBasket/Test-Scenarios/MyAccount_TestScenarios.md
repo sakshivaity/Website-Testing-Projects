@@ -1,4 +1,4 @@
-# My Account Test Scenarios
+# My Account Test Cases
 
 Module: My Account  
 Application: The Premium Basket  
@@ -27,3 +27,7 @@ Tested By: Sakshi Vaity
 | TS_18 | Verify page loads without UI alignment issues | UI elements should display correctly | UI | Low |
 | TS_19 | Verify page performance during loading | Page should load within acceptable time | Performance | Low |
 
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION | STEPS TO REPRODUCE | TEST / INPUT DATA | EXPECTED RESULT | ACTUAL RESULT | PRIORITY | STATUS |
+|---|---|---|---|---|---|---|---|---|---|
+| TS_01 | Verify My Account page opens successfully | TC_001 | Verify My Account page loads successfully | 1. Open browser <br> 2. Enter My Account page URL <br> 3. Press Enter | https://thepremiumbasket.com/my-account/ | My Account page should load properly without errors | NA | High | Not Executed |
