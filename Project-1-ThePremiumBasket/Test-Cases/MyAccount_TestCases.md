@@ -5,9 +5,6 @@ Application: The Premium Basket
 Tested By: Sakshi Vaity  
 
 
-| TS ID | Test Scenario | Expected Result | Test Type | Priority |
-|---|---|---|---|---|
-| TS_01 | Verify My Account page opens successfully | My Account page should load properly | Functional | High |
 | TS_02 | Verify registered user can login with valid credentials | User should login successfully | Functional | High |
 | TS_03 | Verify error message for invalid login credentials | Proper error message should display | Negative | High |
 | TS_04 | Verify validation messages for empty login fields | Required field validation should appear | Validation | High |
@@ -28,6 +25,70 @@ Tested By: Sakshi Vaity
 | TS_19 | Verify page performance during loading | Page should load within acceptable time | Performance | Low |
 
 
-| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION | STEPS TO REPRODUCE | TEST / INPUT DATA | EXPECTED RESULT | ACTUAL RESULT | PRIORITY | STATUS |
-|---|---|---|---|---|---|---|---|---|---|
-| TS_01 | Verify My Account page opens successfully | TC_001 | Verify My Account page loads successfully | 1. Open browser <br> 2. Enter My Account page URL <br> 3. Press Enter | https://thepremiumbasket.com/my-account/ | My Account page should load properly without errors | NA | High | Not Executed |
+
+# My Account Test Cases
+
+**Module:** My Account  
+**Website:** The Premium Basket  
+**Module URL:** https://thepremiumbasket.com/my-account/  
+**Tested By:** Sakshi Vaity  
+
+---
+
+## 🔹 TS_02 – Verify Login Functionality
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_02 | Verify Login Functionality | TC_002 | Verify login with valid credentials |
+| TS_02 | Verify Login Functionality | TC_003 | Verify login with invalid password |
+| TS_02 | Verify Login Functionality | TC_004 | Verify validation for empty login fields |
+| TS_02 | Verify Login Functionality | TC_005 | Verify login with unregistered email |
+| TS_02 | Verify Login Functionality | TC_006 | Verify Remember Me functionality |
+
+---
+
+## 🔹 TS_03 – Verify Registration Functionality
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_03 | Verify Registration Functionality | TC_007 | Verify user registration with valid details |
+| TS_03 | Verify Registration Functionality | TC_008 | Verify validation for mandatory registration fields |
+| TS_03 | Verify Registration Functionality | TC_009 | Verify registration with already registered email |
+| TS_03 | Verify Registration Functionality | TC_010 | Verify First Name and Last Name field validation |
+| TS_03 | Verify Registration Functionality | TC_011 | Verify email field validation |
+
+---
+
+## 🔹 TS_04 – Verify Password & Recovery Functionality
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_04 | Verify Password & Recovery Functionality | TC_012 | Verify password masking functionality |
+| TS_04 | Verify Password & Recovery Functionality | TC_013 | Verify SHOW and HIDE password functionality |
+| TS_04 | Verify Password & Recovery Functionality | TC_014 | Verify Recover Password navigation |
+| TS_04 | Verify Password & Recovery Functionality | TC_015 | Verify Recover Password functionality |
+
+---
+
+## 🔹 TS_05 – Verify Security Behavior
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_05 | Verify Security Behavior | TC_016 | Verify browser back button behavior after logout |
+
+---
+
+## 🔹 TS_06 – Verify UI & Responsiveness
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_06 | Verify UI & Responsiveness | TC_017 | Verify My Account page responsiveness |
+| TS_06 | Verify UI & Responsiveness | TC_018 | Verify UI alignment on My Account page |
+
+---
+
+## 🔹 TS_07 – Verify Performance
+
+| TEST SCENARIO ID | TEST SCENARIO | TEST CASE ID | TEST CASE DESCRIPTION |
+|---|---|---|---|
+| TS_07 | Verify Performance | TC_019 | Verify My Account page loading performance |
